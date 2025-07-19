@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+
+.text-outline {
+  color: white;
+  -webkit-text-stroke: 0.5px #064e3b; /* Tailwind's green-900 */
+  text-shadow: none;
+}
+
+body {
+  @apply bg-white;
+}
+
+.dark body {
+  @apply bg-gradient-to-b from-[#121212] via-[#1c1c1c] to-[#28282B];
+}
