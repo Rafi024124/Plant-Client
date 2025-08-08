@@ -1,4 +1,5 @@
-# React + Vite
+# PLUNT
+![PLUNT](/screenshot2.jpg)
 🌿 PLUNT – Plant Care Companion
 PLUNT is a full-stack plant management platform designed to help users track and care for their beloved plants. Whether you're a seasoned plant parent or just getting started, PLUNT makes it easy to organize, water, and love your green friends.
 
